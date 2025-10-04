@@ -105,3 +105,11 @@ You should now see the user Daniel Ortiz added on the user directory Agent Panel
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 185122" src="https://github.com/user-attachments/assets/77624414-aa7e-4911-b2f1-009aee927e0f" />
 
 <p align="center">
+Return to the Admin Panel, navigate to the Manage tab, and select SLA:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185235" src="https://github.com/user-attachments/assets/1984e755-9dc0-48ce-838f-8c25ce99aa3e" />
+
+<p align="center">
+Add a new SLA Plan named Sev-A and set the grace period to 1 hour with a 24/7 assigned schedule to ensure continuous coverage:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185443" src="https://github.com/user-attachments/assets/8bef72c1-3c62-4034-a930-25191da36312" />
+
+<p align="center">
