@@ -209,3 +209,7 @@ Add an internal note explaining that the customer was impatient and that you res
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 210102" src="https://github.com/user-attachments/assets/c356e4e6-4d59-4540-b0e2-554cbad5f021" />
 
 <p align="center">
+Close out the ticket with a brief comment as to how it was fixed:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 210243" src="https://github.com/user-attachments/assets/b38a75c4-d9e9-4eae-b7b5-97b9a59f501b" />
+
+<p align="center">
