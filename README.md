@@ -204,3 +204,8 @@ Create a new ticket with the user Olivia Hayes and classify the help topic in ot
 Log in to osTicket as Jordan Alvarez and provide help desk support by updating the ticket thread, classifying the issue as Sev-C, and include detail replies explaining as to how the problem was resolved:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 205504" src="https://github.com/user-attachments/assets/02f0e278-cdfa-493d-9632-b962da193bb0" />
 
+<p align="center">
+Add an internal note explaining that the customer was impatient and that you responded with empathy to address their concerns:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 210102" src="https://github.com/user-attachments/assets/c356e4e6-4d59-4540-b0e2-554cbad5f021" />
+
+<p align="center">
