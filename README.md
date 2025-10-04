@@ -197,3 +197,10 @@ Back in the agent panel login in as an administrator and create a new user named
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 204149" src="https://github.com/user-attachments/assets/0cf5f108-81a9-4e41-8293-6a239c8386cb" />
 
 <p align="center">
+Create a new ticket with the user Olivia Hayes and classify the help topic in other with a brief summary of the issue:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 204252" src="https://github.com/user-attachments/assets/dec2e181-76d4-4d7a-9c65-127999132e96" />
+
+<p align="center">
+Log in to osTicket as Jordan Alvarez and provide help desk support by updating the ticket thread, classifying the issue as Sev-C, and include detail replies explaining as to how the problem was resolved:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 205504" src="https://github.com/user-attachments/assets/02f0e278-cdfa-493d-9632-b962da193bb0" />
+
