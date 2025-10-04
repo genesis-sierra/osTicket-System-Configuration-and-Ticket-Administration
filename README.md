@@ -93,3 +93,15 @@ Grant this agent access to the Support department and assign them the Expanded A
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 183931" src="https://github.com/user-attachments/assets/9e85cdbe-7816-489e-8793-c0a881d02c3c" />
 
 <p align="center">
+You will now see all active and concurrent agents listed under the Agents tab:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 184005" src="https://github.com/user-attachments/assets/3ff3d550-f5aa-4c94-9b2c-7d0ee0a329a5" />
+
+<p align="center">
+Now navigate to the Agent panel, select Users, click Add User, and create a new user named Daniel Ortiz with the email address daniel.ortiz.user@gmail.com:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185140" src="https://github.com/user-attachments/assets/38393005-1daa-4fab-a7f8-51ac485f275f" />
+
+<p align="center">
+You should now see the user Daniel Ortiz added on the user directory Agent Panel:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185122" src="https://github.com/user-attachments/assets/77624414-aa7e-4911-b2f1-009aee927e0f" />
+
+<p align="center">
