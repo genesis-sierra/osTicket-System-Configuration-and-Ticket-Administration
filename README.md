@@ -113,3 +113,11 @@ Add a new SLA Plan named Sev-A and set the grace period to 1 hour with a 24/7 as
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 185443" src="https://github.com/user-attachments/assets/8bef72c1-3c62-4034-a930-25191da36312" />
 
 <p align="center">
+Create two additional Service Level Agreements: Sev-B with a 4-hour grace period and a 24/7 schedule, and Sev-C with an 8-hour grace period and a Monday–Friday 8 AM–5 PM (with U.S. Holidays) schedule:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185752" src="https://github.com/user-attachments/assets/aa531af7-5b1f-4df1-970d-17514ee1f24f" />
+
+<p align="center">
+Now scroll to the Help Topics section under the Manage tab this will show all active topics associated in the system:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185844" src="https://github.com/user-attachments/assets/197f4f2c-ebd0-48b0-8e56-57cef2df9a5a" />
+
+<p align="center">
