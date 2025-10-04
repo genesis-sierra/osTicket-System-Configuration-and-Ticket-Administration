@@ -13,6 +13,7 @@ This project demonstrates my ability to use a professional ticketing help desk s
 - <b>osTicket (ticketing/help desk platform)</b>
 
 <h2>Technology Installed</h2>
+
 - <b>IIS (Internet Information Services) (web server)</b>
 - <b>PHP (runtime for osTicket)</b>
 - <b>MySQL (ticket database)</b>
