@@ -61,3 +61,11 @@ You will now see that the department has been successfully added to the system:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 181720" src="https://github.com/user-attachments/assets/4c128579-acfd-4806-8c89-931b4be2873a" />
 
 <p align="center">
+On the Agents tab go to Teams and create a new team named Online Banking:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 182136" src="https://github.com/user-attachments/assets/1db6b693-f411-4010-ad8f-4a2f60ad8854" />
+
+<p align="center">
+You will now see the team name Online Banking reflected on the teams tab:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 182212" src="https://github.com/user-attachments/assets/cabefbd6-e922-4f86-8f9a-f63c495a5eb4" />
+
+<p align="center">
