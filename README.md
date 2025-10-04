@@ -1,6 +1,6 @@
 <h1>osTicket: System Configuration and Ticket Administration</h1>
 <h2>Description</h2>
-This project demonstrates my ability to use a professional ticketing help desk system to manage support requests, assign SLAs, escalate issues, and resolve tickets in a structured IT environment. The platform used is osTicket, a widely recognized open-source IT support tool, deployed in a lab environment to simulate real-world IT service desk operations.
+This project demonstrates my ability to configure and operate a professional help desk ticketing system to manage support requests, assign and prioritize Service Level Agreements (SLAs), escalate issues, and resolve tickets within a structured IT environment. Using osTicket, a widely recognized open source IT support platform, this lab simulates real world service desk operations and showcases my practical understanding of IT support workflows.
 
 <h2>Skills Used</h2>
 
