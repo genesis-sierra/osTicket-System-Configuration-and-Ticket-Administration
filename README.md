@@ -121,3 +121,15 @@ Now scroll to the Help Topics section under the Manage tab this will show all ac
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 185844" src="https://github.com/user-attachments/assets/197f4f2c-ebd0-48b0-8e56-57cef2df9a5a" />
 
 <p align="center">
+Add a new Help Topic titled Business Critical Outage and set its parent topic to Report a Problem:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 185949" src="https://github.com/user-attachments/assets/92bc8769-0f69-4cd1-82ae-22372abe660e" />
+
+<p align="center">
+Make another Help Topic titled Equipment Request and set its parent topic to General Inquiry:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 190212" src="https://github.com/user-attachments/assets/76bafd4d-8b51-4d42-ad79-d37056e96c54" />
+
+<p align="center">
+Create additional Help Topics titled Report a Problem / Password Reset, Report a Problem / Personal Computer Issues, and General Inquiry / Other:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 190411" src="https://github.com/user-attachments/assets/061170bf-c091-407a-89eb-d0d68f4aa49c" />
+
+<p align="center">
