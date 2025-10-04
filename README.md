@@ -189,3 +189,11 @@ Close the ticket and update the status to Resolved:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 203033" src="https://github.com/user-attachments/assets/ad4c8090-dec7-4185-b792-3b25954be8fc" />
 
 <p align="center">
+Confirm the ticket was successfully closed by navigating to the Tickets section and selecting the Closed tab:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 203202" src="https://github.com/user-attachments/assets/32272446-f275-4047-9754-38935ac55a4c" />
+
+<p align="center">
+Back in the agent panel login in as an administrator and create a new user named Olivia Hayes with the email address olivia.hayes.user@gmail.com:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 204149" src="https://github.com/user-attachments/assets/0cf5f108-81a9-4e41-8293-6a239c8386cb" />
+
+<p align="center">
