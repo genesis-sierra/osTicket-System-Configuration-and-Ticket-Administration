@@ -73,7 +73,23 @@ Now go to Settings under the Users tab and make sure Registration Required is un
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 182327" src="https://github.com/user-attachments/assets/26b45a7d-01b8-418c-b2f0-a0b0df845966" />
 
 <p align="center">
-On the Agents tab, create two new agents:
+On the Agents tab, create a new agent:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 182452" src="https://github.com/user-attachments/assets/6322b766-1f06-413c-931e-5462c02df1f6" />
+
+<p align="center">
+Assign the agent to the SysAdmins department with the Supreme Admin role for full system access:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 183147" src="https://github.com/user-attachments/assets/5fd556a2-c1a1-4463-bc77-293f27d1e189" />
+
+<p align="center">
+Name this agent Taylor Bennett with the email address taylor.bennett.it@gmail.com:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 183509" src="https://github.com/user-attachments/assets/63b12143-5404-4e47-8c99-9c2a71390df5" />
+
+<p align="center">
+Create another new agent and name this one Jordan Alvarez with the email address jordan.alvarez.it@gmail.com:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 183855" src="https://github.com/user-attachments/assets/472044d9-ff11-4c05-afcf-965346990996" />
+
+<p align="center">
+Grant this agent access to the Support department and assign them the Expanded Access role:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 183931" src="https://github.com/user-attachments/assets/9e85cdbe-7816-489e-8793-c0a881d02c3c" />
 
 <p align="center">
