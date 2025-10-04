@@ -43,3 +43,21 @@ Navigate to the Agents tab, select Roles and choose Expanded Access to proceed:
 <p align="center">
 On the Expanded Access screen, you’ll now see a full list of all the ticket-related permissions available for this role:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 180943" src="https://github.com/user-attachments/assets/2e95b1c5-1bd0-4d09-bcbe-be5b1f0659a6" />
+
+<p align="center">
+When selecting the All Access role, you’ll now notice that every permission checkbox is enabled, granting this role full access to all ticket operations and administrative actions:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 181028" src="https://github.com/user-attachments/assets/c374b536-bcd5-4ead-9a12-87a8ff5b219f" />
+
+<p align="center">
+Navigate to the Agents tab and select Departments. You will now see a list of all available departments within the system:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 181326" src="https://github.com/user-attachments/assets/fda66032-ad66-497c-a6a6-d491cfd16159" />
+
+<p align="center">
+Create a new department named “SysAdmins” and designate it as a top-level (parent) department:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 181650" src="https://github.com/user-attachments/assets/61b6402f-1add-4deb-9111-681f0ee1ff0d" />
+
+<p align="center">
+You will now see that the department has been successfully added to the system:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 181720" src="https://github.com/user-attachments/assets/4c128579-acfd-4806-8c89-931b4be2873a" />
+
+<p align="center">
