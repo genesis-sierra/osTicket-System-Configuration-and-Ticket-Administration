@@ -133,3 +133,39 @@ Create additional Help Topics titled Report a Problem / Password Reset, Report a
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 190411" src="https://github.com/user-attachments/assets/061170bf-c091-407a-89eb-d0d68f4aa49c" />
 
 <p align="center">
+Go to the Support Center page of osTicket as the user Daniel Ortiz and open a new ticket under Report a Problem. Enter the issue summary “Online Banking System Down” and describe the outage details. Then click Create Ticket to submit it for investigation.
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 195126" src="https://github.com/user-attachments/assets/0533c35a-a61a-4f0f-943c-e3db28c7e33c" />
+
+<p align="center">
+After submitting the form, you should now see a confirmation message stating Support ticket request created:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 195217" src="https://github.com/user-attachments/assets/202752b3-4326-4915-87bd-9be8da7f81a2" />
+
+<p align="center">
+Log in to osTicket as the agent Jordan using the provided credentials:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 195934" src="https://github.com/user-attachments/assets/ae2859cd-1c59-46a6-993b-7fc1d41078b1" />
+
+<p align="center">
+Navigate to the Tickets section and locate the ticket created by Daniel Ortiz to review its details and submission information:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 200138" src="https://github.com/user-attachments/assets/55b12a8d-5232-497c-82d5-407f2c31e4a6" />
+
+<p align="center">
+Update the SLA Plan to Sev-A to ensure critical issues are prioritized with the shortest response and resolution time:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 200440" src="https://github.com/user-attachments/assets/9adf7596-71d2-4d7c-8982-ad4432418cea" />
+
+<p align="center">
+Update the Help Topic to Business Critical Outage to categorize this issue as a major system failure requiring immediate response:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 200556" src="https://github.com/user-attachments/assets/5fd9bb6c-3d0e-4eaf-bbd1-6175d6b26686" />
+
+<p align="center">
+Assign the ticket to the Online Banking Team since the issue affects the online banking portal and requires their expertise to restore customer access:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 201430" src="https://github.com/user-attachments/assets/85cbf362-cba9-4521-b49a-57a274be9733" />
+
+<p align="center">
+Click on Agents, navigate to Teams, and then select Members to view all active agents assigned to that team:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 201125" src="https://github.com/user-attachments/assets/9f5bcaa9-adcc-47ed-b937-216dbc9affb9" />
+
+<p align="center">
+Now go back to the osTicket mainpage and login as Taylor:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 201715" src="https://github.com/user-attachments/assets/9ee33186-4fa2-4233-babf-188648c98b93" />
+
+<p align="center">
