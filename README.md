@@ -69,3 +69,11 @@ You will now see the team name Online Banking reflected on the teams tab:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 182212" src="https://github.com/user-attachments/assets/cabefbd6-e922-4f86-8f9a-f63c495a5eb4" />
 
 <p align="center">
+Now go to Settings under the Users tab and make sure Registration Required is unchecked to allow any user to create tickets without needing to log in:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 182327" src="https://github.com/user-attachments/assets/26b45a7d-01b8-418c-b2f0-a0b0df845966" />
+
+<p align="center">
+On the Agents tab, create two new agents:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 182452" src="https://github.com/user-attachments/assets/6322b766-1f06-413c-931e-5462c02df1f6" />
+
+<p align="center">
