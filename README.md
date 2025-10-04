@@ -213,3 +213,13 @@ Close out the ticket with a brief comment as to how it was fixed:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 210243" src="https://github.com/user-attachments/assets/b38a75c4-d9e9-4eae-b7b5-97b9a59f501b" />
 
 <p align="center">
+Observe that a new ticket was created by Daniel Ortiz and assist in resolving it while logged in as Jordan Alvarez:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 211719" src="https://github.com/user-attachments/assets/005b1502-28a9-43e6-8765-d8941f722162" />
+
+<p align="center">
+Post a reply explaining how the issue was resolved and close out the ticket:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 212116" src="https://github.com/user-attachments/assets/0e47a270-9fe2-4813-aa95-1bc386b46d4f" />
+
+<p align="center">
+Back in the Agent Panel as an administrator review the ticket activity that was completed today:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 213415" src="https://github.com/user-attachments/assets/020faf59-1299-4ecb-8688-dabee0eac98c" />
