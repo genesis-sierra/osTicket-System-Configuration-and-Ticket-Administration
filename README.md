@@ -181,3 +181,11 @@ Post a reply to update the team on your next steps and explain how you plan to i
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 202520" src="https://github.com/user-attachments/assets/eb584fc8-83a0-4f72-ada4-5e001424db95" />
 
 <p align="center">
+Post a new response confirming that the issue has been resolved and briefly explain the steps taken to fix it:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 202858" src="https://github.com/user-attachments/assets/07f12383-c441-4d99-a2c0-1a45bb0328de" />
+
+<p align="center">
+Close the ticket and update the status to Resolved:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 203033" src="https://github.com/user-attachments/assets/ad4c8090-dec7-4185-b792-3b25954be8fc" />
+
+<p align="center">
