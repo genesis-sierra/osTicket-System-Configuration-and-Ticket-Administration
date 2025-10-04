@@ -157,7 +157,7 @@ Update the Help Topic to Business Critical Outage to categorize this issue as a 
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 200556" src="https://github.com/user-attachments/assets/5fd9bb6c-3d0e-4eaf-bbd1-6175d6b26686" />
 
 <p align="center">
-Assign the ticket to the Online Banking Team since the issue affects the online banking portal and requires their expertise to restore customer access:
+Assign the ticket to the Online Banking Team since the issue affects the online banking portal and requires their expertise:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 201430" src="https://github.com/user-attachments/assets/85cbf362-cba9-4521-b49a-57a274be9733" />
 
 <p align="center">
@@ -167,5 +167,17 @@ Click on Agents, navigate to Teams, and then select Members to view all active a
 <p align="center">
 Now go back to the osTicket mainpage and login as Taylor:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 201715" src="https://github.com/user-attachments/assets/9ee33186-4fa2-4233-babf-188648c98b93" />
+
+<p align="center">
+Reassign the ticket to the login user Taylor Bennett with a provided comment:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 201955" src="https://github.com/user-attachments/assets/41e3f6d3-556b-46a0-af71-e525437b9db3" />
+
+<p align="center">
+Go to the Ticket Thread to review all replies and updates that have been made:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 202127" src="https://github.com/user-attachments/assets/2e3c370f-9808-4fda-98ba-9b0d49a7e92f" />
+
+<p align="center">
+Post a reply to update the team on your next steps and explain how you plan to investigate the issue further:
+<img width="1919" height="1079" alt="Screenshot 2025-08-20 202520" src="https://github.com/user-attachments/assets/eb584fc8-83a0-4f72-ada4-5e001424db95" />
 
 <p align="center">
