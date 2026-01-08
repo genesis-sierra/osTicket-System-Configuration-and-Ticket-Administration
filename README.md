@@ -206,7 +206,7 @@ Log in to osTicket as Jordan Alvarez and provide help desk support by updating t
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 205504" src="https://github.com/user-attachments/assets/02f0e278-cdfa-493d-9632-b962da193bb0" />
 
 <p align="center">
-Add an internal note explaining that the customer was impatient and that you responded with empathy to address their concerns:
+Add an internal note to the record as needed:
 <img width="1919" height="1079" alt="Screenshot 2025-08-20 210102" src="https://github.com/user-attachments/assets/c356e4e6-4d59-4540-b0e2-554cbad5f021" />
 
 <p align="center">
